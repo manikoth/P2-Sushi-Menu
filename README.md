@@ -37,11 +37,9 @@ Creat a prototype for Sushi Menu
 * Create a rapid prototype using the Twitter Bootstrap framework
 * Prototype should only have default bootstrap styling
 * Use at least 2 components & 1 JavaScript plugin
-* [ ] Accessible at URL: http://USER.github.com/P2-Sushi-Menu/prototype
+* [ ] Accessible at URL subfolder: http://USER.github.com/P2-Sushi-Menu/prototype
 
 ##Final 
 Completed final version with styling & any additional content 
 * [ ] Accessible at URL: http://USER.github.com/P2-Sushi-Menu/
-
-* Accessible at URL: http://studentweb.ewu.edu/YourUserName/378/**p2-final**
 
